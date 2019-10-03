@@ -1,0 +1,16 @@
+/.repository/
+/Interface.xml
+/_DS_Store
+/_classpath.xml
+/_project.xml
+/catalog/
+/com/
+/datatypes/
+/examples/
+/flights-DEV.properties
+/global.xml
+/implementaion.xml
+/log4j2.xml
+/mua-flights-api.raml
+/mule-app.properties
+/mule-deploy.properties
